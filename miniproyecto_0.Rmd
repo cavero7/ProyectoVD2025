@@ -13,3 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 En este apartado cargaremos las librerías necesarias para el proyecto
 
+
+```{r}
+print('Hola')
+```
+
+
