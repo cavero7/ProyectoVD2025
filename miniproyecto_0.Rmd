@@ -1,0 +1,15 @@
+---
+title: "Miniproyecto_VD"
+author: "Ferran Medina Mompó, Alexis Cavero Arocas, Carlos Mateo Martínez, Marcos Baudson Ríos y Roberto Millán"
+date: "2025-04-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Carga de librerias
+
+En este apartado cargaremos las librerías necesarias para el proyecto
+
