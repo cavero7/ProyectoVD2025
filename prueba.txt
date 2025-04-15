@@ -1,0 +1,25 @@
+COMANDOS:
+
+----> ORDENADOR QUE PUBLICA:
+
+Creas o modificas el archivo (el que sea).
+
+
+cd 'carpeta_direccion'
+
+git status
+
+git add .
+
+git commit -m 'he hecho un commit nuevo'
+
+git push origin main
+
+
+
+
+
+-----> ORDENADOR QUE RECIBE (cada vez que vayas a hacer algo del trabajo debes de correr este código en el cmd':
+
+git pull origin main
+
