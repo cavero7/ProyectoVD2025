@@ -16,6 +16,8 @@ En este apartado cargaremos las librerías necesarias para el proyecto
 
 ```{r}
 print('Hola')
+
+print('Adios')
 ```
 
 
